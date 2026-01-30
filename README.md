@@ -1,11 +1,11 @@
-# 👋 Heyyyy , I'm Mansi Gaikwad 
+# 👋 Heyyyy , I'm Mansi Gaikwad  
 
 ### 🚀 *Tech Enthusiast | Data Science & Data Analyst | AI & Statistics Explorer*  
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=nehak1122&label=Profile%20Views&color=blue&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Khetawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nehakhetawat/)  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Mansi358721&label=Profile%20Views&color=blue&style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansi%20Gaikwad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mansi-gaikwad-771628380/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://mac-os-portfolio-one-delta.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-nehak1122-black?style=flat&logo=github)]()  
+[![GitHub](https://img.shields.io/badge/GitHub-Mansi35872-black?style=flat&logo=github)](https://github.com/Mansi358721)  
 
 ---
 
@@ -15,6 +15,7 @@ I’m a **M.Sc Data Science Student at MIT ACSC Alandi (CGPA: 8.27)** building *
 **AI, Statistics, cloud, and scalable software engineering**.
 
 - 🎓 **M.Sc Data Science Student @ MIT Alandi (CGPA: 9.2)**
+- 💼 **Internship:** Microsoft & Edunet Foundation — *AI Internship (April 2025)*
 - 🧠 **Exploring:** AI Consulting, LLMs, SaaS Development, Quantitative Development, Data Science, MLOps
 - 🌏 **Location:** Pune, Maharashtra, India
 
